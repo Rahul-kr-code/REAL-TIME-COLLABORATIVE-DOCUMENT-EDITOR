@@ -155,3 +155,9 @@ http://localhost:3000
 
 Developed as part of internship training.
 ##output
+*1st user*
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/53804f51-94fd-43a4-8042-f800a03bac9e" />
+*2nd user*
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0e71ab0b-cc3d-49ac-bd4c-9ca266fa5194" />
+*terminal ss*
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/918303ac-4c5c-49f2-8327-d6c2e67a8a7a" />
